@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skymatic/code-sign-action.git"
+    "url": "git+https://github.com/joachimchrapek/code-sign-action.git"
   },
   "keywords": [],
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/skymatic/code-sign-action/issues"
+    "url": "https://github.com/joachimchrapek/code-sign-action/issues"
   },
-  "homepage": "https://github.com/skymatic/code-sign-action#readme",
+  "homepage": "https://github.com/joachimchrapek/code-sign-action#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
     "@actions/github": "^6.0.1"
